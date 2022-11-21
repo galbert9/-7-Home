@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.AssemblyInfo.cs
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/bin/Debug/net6.0/Задача 47
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/bin/Debug/net6.0/Задача 47.deps.json
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/bin/Debug/net6.0/Задача 47.runtimeconfig.json
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/bin/Debug/net6.0/Задача 47.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/bin/Debug/net6.0/Задача 47.pdb
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/refint/Задача 47.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.pdb
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/Задача 47.genruntimeconfig.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 47/obj/Debug/net6.0/ref/Задача 47.dll
