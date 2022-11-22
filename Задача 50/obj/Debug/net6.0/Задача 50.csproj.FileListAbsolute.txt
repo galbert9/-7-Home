@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/bin/Debug/net6.0/Задача 50
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/bin/Debug/net6.0/Задача 50.deps.json
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/bin/Debug/net6.0/Задача 50.runtimeconfig.json
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/bin/Debug/net6.0/Задача 50.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/bin/Debug/net6.0/Задача 50.pdb
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.AssemblyInfo.cs
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/refint/Задача 50.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.pdb
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/Задача 50.genruntimeconfig.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Семинар7_Home/Задача 50/obj/Debug/net6.0/ref/Задача 50.dll
